@@ -1,2 +1,3 @@
-# micro-booking-system-87zp
-Automated issue comment bot repository
+# Micro Booking System 87Zp
+
+Automated issue comment bot repository.
